@@ -43,8 +43,7 @@ Nos apasiona construir soluciones digitales robustas, eficientes y escalables pa
 ## 📫 Contáctame
 - Correo: fsalinas@anccadi.com  
 - LinkedIn: [linkedin.com/in/felix-salinas-ancieta-31b837210](https://linkedin.com/in/felix-salinas-ancieta-31b837210)  
-- Sitio web: [anccadi.com](https://anccadi.com)  
 
 ---
 
-> "Innovando con software y aplicaciones que hacen la diferencia."
+> "Transformamos ideas en soluciones digitales."
